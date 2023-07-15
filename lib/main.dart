@@ -8,8 +8,6 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:flutter_downloader/flutter_downloader.dart';
 import 'constants/colors.dart';
 import '../pages/splashScreen.dart';
-import 'package:flutter_localizations/flutter_localizations.dart';
-import '../pages/bookshelf.dart';
 import 'generated/codegen_loader.g.dart';
 
 void main() async {
